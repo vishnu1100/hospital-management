@@ -1,14 +1,4 @@
 # hospital-management
-
-
-
-# Hospital Management
-
----
-## screenshots
-### Homepage
-
-### Admin Dashboard
 !
 ## Functions
 ### Admin
